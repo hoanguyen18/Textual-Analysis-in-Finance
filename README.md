@@ -2,6 +2,7 @@
 🤖 Measure political partisanship score using speech of U.S. congress man/women and apply it to speech by the Board of Governors of the U.S. FED
 
 🤖 As we know, In contrast to the U.S. Congress, the Federal Reserve System should be a non-partisan institution. 
+
 🤖 However, as individual members of the Federal Open Market Committee [FOMC] are appointed by politicians, they might have an incentive to engage in political partisan speech. 
 
 -> We want to know how much partisanship among financial regulators!
